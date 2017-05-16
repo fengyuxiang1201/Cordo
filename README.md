@@ -1,2 +1,2 @@
 # Cordo
-使用react-native开发app
+使用react-native开发混合app。
