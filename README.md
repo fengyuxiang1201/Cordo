@@ -1,7 +1,7 @@
 # Cordo
 使用react-native开发混合app。
 
-## swipper的使用
+## swiper的使用
 
 ### 使用地址
 https://github.com/leecade/react-native-swiper
