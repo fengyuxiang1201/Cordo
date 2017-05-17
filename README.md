@@ -10,7 +10,7 @@ https://github.com/leecade/react-native-swiper
 ```bash
 $ npm i react-native-swiper --save
 ```
-### 使用demo
+### 使用demo的部分代码
 ```jsx
 class Slider extends Component {
   _onTouchEnd(e, state, context) {
